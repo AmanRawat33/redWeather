@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redWeather/static/css/main.82a383e0.css",
+    "main.js": "/redWeather/static/js/main.d3a86ae4.js",
+    "static/media/cloud.png": "/redWeather/static/media/cloud.a2a284062ceb607502c9.png",
+    "static/media/snow.png": "/redWeather/static/media/snow.3ef7baa804156913d942.png",
+    "static/media/wind.png": "/redWeather/static/media/wind.de942b6db43a2d4cbb78.png",
+    "static/media/rain.png": "/redWeather/static/media/rain.0bb332cec1b16921c136.png",
+    "static/media/humid.png": "/redWeather/static/media/humid.c8ee914ee96a5293ae25.png",
+    "static/media/mist.png": "/redWeather/static/media/mist.1b9d11648d60680bde32.png",
+    "static/media/search.png": "/redWeather/static/media/search.1d92f967297920015306.png",
+    "static/media/drizzle.png": "/redWeather/static/media/drizzle.3fd3b4a92908a8f63dad.png",
+    "static/media/clear.png": "/redWeather/static/media/clear.d884c04b15426376f660.png",
+    "index.html": "/redWeather/index.html",
+    "main.82a383e0.css.map": "/redWeather/static/css/main.82a383e0.css.map",
+    "main.d3a86ae4.js.map": "/redWeather/static/js/main.d3a86ae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82a383e0.css",
+    "static/js/main.d3a86ae4.js"
+  ]
+}
